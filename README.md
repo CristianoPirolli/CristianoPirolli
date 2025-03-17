@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Cristiano Pirolli</h1>
   
 Computer Science student at IFC Videira. <br>
-Trainee in Information Technology
+Trainee in Information Technology in  _JP Contabil_
  
 
 ## Technologies and Tools  

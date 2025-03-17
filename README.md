@@ -9,7 +9,7 @@ Trainee in Information Technology
 **Frameworks:** Flask
 
 ## contact:
-📩 Email: cristianopirolli@hotmail.com <br>
+📩 [Email](cristianopirolli@hotmail.com) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/cristiano-pirolli-9145a8324/)
 
 ---

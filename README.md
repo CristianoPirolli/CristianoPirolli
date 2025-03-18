@@ -5,7 +5,7 @@ Trainee in Information Technology in  _JP Contabil_
  
 
 ## Technologies and Tools  
-**Languages:** Java, Python  
+**Programming Language:** Java, Python  
 **Frameworks:** Flask
 
 ## contact:

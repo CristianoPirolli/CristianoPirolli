@@ -1,17 +1,49 @@
-<h1 align="center">Hello! My name is Cristiano Pirolli</h1>
-  
-Computer Science student at IFC Videira. <br>
-Trainee in Information Technology in  _JP Contabil_
- 
+<h1 align="center">Olá! 👋 Eu sou o Cristiano Pirolli</h1>
 
-## Technologies and Tools  
-**Programming Language:** Java, Python  
-**Frameworks:** Flask
-
-## contact:
-📩 Email: cristianopirolli@hotmail.com <br>
-💼 [LinkedIn](https://www.linkedin.com/in/cristiano-pirolli-9145a8324/)
+<p align="center">
+🎓 Estudante de Ciência da Computação no <strong>IFC - Campus Videira</strong> <br>
+💼 Estagiário em TI na <strong>JP Contabil</strong> <br>
+📍 Tangará - SC, Brasil
+</p>
 
 ---
 
- _"Código é como humor. Quando você tem que explicá-lo, está ruim."_ – Cory House  
+### 🛠️ Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoPirolli&show_icons=true&theme=tokyonight&count_private=true&hide=issues"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoPirolli&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+### 📬 Contato
+
+[![Email](https://img.shields.io/badge/Email-c8c8c8?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:cristianopirolli@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CristianoPirolli)
+
+---
+
+### 💡 Citação favorita
+
+> *"Código é como humor. Quando você tem que explicá-lo, está ruim."* — Cory House
+
+---
+
+### 🐍 Snake Game das contribuições
+
+![snake gif](https://github.com/CristianoPirolli/CristianoPirolli/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil! 💻✨
+</p>

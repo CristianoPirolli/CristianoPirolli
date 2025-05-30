@@ -36,11 +36,6 @@
 
 > *"Código é como humor. Quando você tem que explicá-lo, está ruim."* — Cory House
 
----
-
-### 🐍 Snake Game das contribuições
-
-![snake gif](https://github.com/CristianoPirolli/CristianoPirolli/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

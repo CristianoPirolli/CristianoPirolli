@@ -1,4 +1,7 @@
 name: Generate Snake
+env:
+  GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+
 
 on:
   workflow_dispatch:

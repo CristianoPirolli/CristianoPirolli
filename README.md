@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o Cristiano Pirolli</h1>
+<h1 align="center">Olá!  Me chamo Cristiano Pirolli</h1>
 
 <p align="center">
 🎓 Estudante de Ciência da Computação no <strong>IFC - Campus Videira</strong> <br>
@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! 💻✨
+  Obrigado por visitar meu perfil! 💻
 </p>

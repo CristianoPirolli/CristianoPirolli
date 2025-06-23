@@ -1,6 +1,10 @@
 <h1 align="center">Olá!  Me chamo Cristiano Pirolli</h1>
 
 <p align="center">
+![Profile views](https://komarev.com/ghpvc/?username=CristianoPirolli&color=blue)
+</p>
+
+<p align="center">
 🎓 Estudante de Ciência da Computação no <strong>IFC - Campus Videira</strong> <br>
 💼 Estagiário em TI na <strong>JP Contabil</strong> <br>
 📍 Tangará - SC, Brasil
@@ -13,6 +17,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -35,7 +43,6 @@
 ### 💡 Citação favorita
 
 > *"Código é como humor. Quando você tem que explicá-lo, está ruim."* — Cory House
-
 
 ---
 

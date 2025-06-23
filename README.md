@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Cristiano Pirolli</h1>
 
 <p align="center">
-![Profile views](https://komarev.com/ghpvc/?username=CristianoPirolli&color=blue)
+[![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CristianoPirolli&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/CristianoPirolli)
 </p>
 
 <p align="center">

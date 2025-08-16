@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Cristiano Pirolli</h1>
 
 <p align="center">
-🎓 Computer Science student at <strong>IFC - Campus Videira</strong> <br>
+🎓 Computer Science student at <strong>UNOESC - Campus Videira</strong> <br>
 💼 IT Intern at <strong>JP Contabil</strong> <br>
 📍 Tangará - SC, Brazil
 </p>

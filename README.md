@@ -10,7 +10,7 @@
 
 ### 🛠️ Technologies and Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -18,6 +18,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![API](https://img.shields.io/badge/API-61DAFB?style=for-the-badge&logo=swagger&logoColor=black)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoPirolli&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 ---

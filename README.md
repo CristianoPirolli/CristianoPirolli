@@ -18,7 +18,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![API](https://img.shields.io/badge/API-61DAFB?style=for-the-badge&logo=swagger&logoColor=black)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoPirolli&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 ---
@@ -26,7 +25,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoPirolli&show_icons=true&theme=tokyonight&count_private=true&hide=issues"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoPirolli&show_icons=true&theme=tokyonight&count_private=true&show=prs_merged,prs_merged_percentage"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoPirolli&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 

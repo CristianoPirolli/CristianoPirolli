@@ -22,14 +22,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://cristiano-pirolli.vercel.app/api?username=CristianoPirolli&show_icons=true&theme=tokyonight&count_private=true&hide=issues"/>
-  <img height="180em" src="https://cristiano-pirolli.vercel.app/api/top-langs/?username=CristianoPirolli&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
 
 ### 📬 Contact
 

@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hello!+I'm+Cristiano+Pirolli+%F0%9F%91%8B;Computer+Science+Student;Always+learning+something+new)](https://git.io/typing-svg)
 
-🎓 Computer Science student at **UNOESC - Campus Videira**
-💼 IT Intern at **JP Contabil**
+🎓 Computer Science student at **UNOESC - Campus Videira**<br>
+💼 IT Intern at **JP Contabil**<br>
 📍 Tangará - SC, Brazil
 
 </div>
@@ -50,12 +50,8 @@
 
 ### 📬 Connect with me
 
-<div align="center">
-
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cristianopirolli@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CristianoPirolli)
-
-</div>
 
 ---
 

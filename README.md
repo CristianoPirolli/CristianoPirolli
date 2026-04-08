@@ -12,8 +12,6 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,15 +40,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianoPirolli&theme=tokyonight&hide_border=true" alt="CristianoPirolli's GitHub contribution streak" />
-</div>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianoPirolli&theme=tokyonight&hide_border=true" alt="CristianoPirolli's GitHub contribution streak" />
 
 ---
 
